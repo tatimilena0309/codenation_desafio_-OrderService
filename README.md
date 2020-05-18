@@ -1,4 +1,3 @@
-# codenation_desafio_OrderService
 # Order Service
 
 Em um sistema de gerenciamento de pedidos, surgiram alguns requisitos novos para serem implementados. Sua tarefa é realizar a implementação dessas funcionalidades conforme as instruções abaixo.
@@ -42,3 +41,9 @@ Neste desafio, você utilizará:
 Para este desafio, você precisará:
 
 - Java 8++
+
+Para instalar no MacOS, usando o HomeBrew, basta executar:
+
+    brew cask install java
+
+Para instalar no Linux e no Windows, confira os links na seção de conteúdo.
